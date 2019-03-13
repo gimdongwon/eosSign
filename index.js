@@ -1,6 +1,4 @@
-import ecc from 'eosjs-ecc'
 const ecc = require('eosjs-ecc')
-const ecc = eosjs_ecc;
 const hello = "hello"
 ecc.randomKey().then(privateKey => {
     // randomKey 함수를 통해 privateKey 와 Public Key를 생성.

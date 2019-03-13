@@ -4,6 +4,7 @@
     "babel-register": "^6.26.0",
     "ecc": "^0.0.2",
     "eosjs": "^20.0.0-ffffff.0",
-    "eosjs-ecc": "^4.0.4"
+    "eosjs-ecc": "^4.0.4",
+    "require": "^2.4.20"
   }
 }
